@@ -15,8 +15,8 @@ TO RUN:
 
 Inspired by https://www.reddit.com/r/dailyprogrammer/comments/4fnz37/20160420_challenge_263_intermediate_help_eminem/
 
-Phoneme dictionary thanks to the CMU Sphinx project, Copyright disclaimer
-reproduced below:
+Phoneme dictionary thanks to the CMU Sphinx project, 
+Copyright disclaimer reproduced below:
 =============================================================================
 Copyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.
 Redistribution and use in source and binary forms, with or without
